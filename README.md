@@ -6,5 +6,5 @@ My first repository
 # Title
 that time i got reincarnated as a slime
 
-# Discription
+# Reason why i like this anime
 Why i choose that time i got reincarnated as a slime cause it's a famous isekai anime and it's one of my favorite anime cause it's chilling and at the same time fun to watch and it has a unique character like Rimuru who's slime and got overpowered a side from the characters also their story is good.
