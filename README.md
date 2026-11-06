@@ -3,7 +3,7 @@ My first repository
 
 <img width="452" height="678" alt="Slime" src="https://github.com/user-attachments/assets/6858ac15-f841-4d08-b30d-d308cf758195" />
 
-# H1
+# Title
 that time i got reincarnated as a slime
 
 # Discription
